@@ -51,5 +51,6 @@ Each project demonstrates how repetitive Excel or Google Sheets tasks can be aut
 
 ## Author
 **Eze Ugwunweze**
+
 Excel & Google Sheets automation using Python.
 Available for freelance workflow automation projects.
